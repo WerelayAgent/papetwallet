@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+__pycache__
+*.pyc
+scrape.py
+scrape2.py
